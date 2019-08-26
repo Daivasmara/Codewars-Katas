@@ -25,6 +25,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Powers of 3](https://www.codewars.com/kata/57be674b93687de78c0001d9)
 - [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+- [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
 
 
 ### 8 kyu
