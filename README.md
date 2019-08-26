@@ -14,6 +14,8 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Replacement](https://www.codewars.com/kata/598d89971928a085c000001a)
 - [String transformer](https://www.codewars.com/kata/5878520d52628a092f0002d0)
 - [Pair of gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db)
+- [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [What's in a name?](https://www.codewars.com/kata/59daf400beec9780a9000045)
 
 
 ### 7 kyu
