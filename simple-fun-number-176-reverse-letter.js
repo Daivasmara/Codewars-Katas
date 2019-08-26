@@ -1,7 +1,6 @@
 function reverseLetter(str) {
   let justAlphabet = str.replace(/[^a-zA-Z]/g, '');
   let arr = justAlphabet.split('');
-  // return arr.sort((a, b) => arr.indexOf(b) - arr.indexOf(a)).join('');
   let reversedArr = [];
   for(let i = arr.length - 1; i >= 0; i--){
     reversedArr.push(arr[i]);
