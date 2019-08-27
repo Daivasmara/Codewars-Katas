@@ -1,10 +1,5 @@
 function multiples(m, n) {
-  let result = [];
-
-  for(let i = 1; i <= m; i++){
-    result.push(n * i);
-  }
-  return result
+  return(Array.from(Array(m), (v, i) => (i + 1) * n));
 }
 
-console.log(multiples(3, 5) === [5, 10, 15]);
+console.log(multiples(3, 5), [5, 10, 15]);
