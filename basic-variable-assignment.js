@@ -1,5 +1,5 @@
-var a = "code";
-var b = "wa.rs";
-var name = a + b;
+let a = "code",
+    b = "wa.rs",
+    name = a + b;
 
 console.log(name === 'codewa.rs');
