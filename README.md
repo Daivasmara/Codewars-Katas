@@ -4,7 +4,7 @@
 
 My Profile: https://www.codewars.com/users/Daivasmara
 
-## Katas Solved
+## Katas Solved (25)
 
 ### 5 kyu
 - [Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)
@@ -16,6 +16,13 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Pair of gloves](https://www.codewars.com/kata/58235a167a8cb37e1a0000db)
 - [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 - [What's in a name?](https://www.codewars.com/kata/59daf400beec9780a9000045)
+- [Next Version](https://www.codewars.com/kata/56c0ca8c6d88fdb61b000f06)
+- [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012)
+- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+- [Find the integer sequences](https://www.codewars.com/kata/582aad136755daf91a000021)
+- [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+
 
 
 ### 7 kyu
