@@ -1,4 +1,4 @@
-![solved](https://img.shields.io/badge/Katas%20Solved-29-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-30-green)
 
 # Codewars
 
@@ -26,6 +26,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 - [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
 - [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
+- [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
