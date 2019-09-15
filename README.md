@@ -25,6 +25,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Find the integer sequences](https://www.codewars.com/kata/582aad136755daf91a000021)
 - [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 - [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
+- [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
