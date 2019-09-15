@@ -4,7 +4,7 @@
 
 My Profile: https://www.codewars.com/users/Daivasmara
 
-## Katas Solved (25)
+## Katas Solved (28)
 
 ### 5 kyu
 - [Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)
@@ -22,8 +22,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 - [Find the integer sequences](https://www.codewars.com/kata/582aad136755daf91a000021)
 - [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
-
-
+- [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
@@ -35,9 +34,10 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 - [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
-
+- [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 
 ### 8 kyu
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
 - [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 - [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
+- [Simple Fun #1: Seats in Theater](https://www.codewars.com/kata/588417e576933b0ec9000045)
