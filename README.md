@@ -1,4 +1,4 @@
-![solved](https://img.shields.io/badge/Katas%20Solved-32-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-33-green)
 
 # Codewars
 
@@ -29,6 +29,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 - [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+- [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
