@@ -1,4 +1,4 @@
-![solved](https://img.shields.io/badge/Katas%20Solved-28-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-29-green)
 
 # Codewars
 
