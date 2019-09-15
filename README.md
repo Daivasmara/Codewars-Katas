@@ -1,4 +1,4 @@
-![solved](https://img.shields.io/badge/Katas%20Solved-34-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-35-green)
 
 # Codewars
 
@@ -31,6 +31,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 - [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 - [Exclamation marks series #17: Put the exclamation marks and question marks to the balance, Are they balanced?](https://www.codewars.com/kata/57fb44a12b53146fe1000136)
+- [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
