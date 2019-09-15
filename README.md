@@ -1,10 +1,12 @@
+![solved](https://img.shields.io/badge/Katas%20Solved-28-green)
+
 # Codewars
 
 ![badge](https://www.codewars.com/users/Daivasmara/badges/large)
 
 My Profile: https://www.codewars.com/users/Daivasmara
 
-## Katas Solved (28)
+## Katas Solved
 
 ### 5 kyu
 - [Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)
