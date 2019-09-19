@@ -1,4 +1,5 @@
-![solved](https://img.shields.io/badge/Katas%20Solved-35-green)
+![kyu](https://img.shields.io/badge/kyu-5-red)
+![solved](https://img.shields.io/badge/Katas%20Solved-37-green)
 
 # Codewars
 
@@ -32,6 +33,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 - [Exclamation marks series #17: Put the exclamation marks and question marks to the balance, Are they balanced?](https://www.codewars.com/kata/57fb44a12b53146fe1000136)
 - [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
+- [Numericals of a String](https://www.codewars.com/kata/5b4070144d7d8bbfe7000001)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
@@ -44,6 +46,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 - [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
 - [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
+- [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
 
 ### 8 kyu
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
