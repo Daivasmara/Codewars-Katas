@@ -1,5 +1,5 @@
 ![kyu](https://img.shields.io/badge/kyu-5-red)
-![solved](https://img.shields.io/badge/Katas%20Solved-37-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-38-green)
 
 # Codewars
 
@@ -11,6 +11,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 
 ### 5 kyu
 - [Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)
+- [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 
 ### 6 kyu
 - [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
