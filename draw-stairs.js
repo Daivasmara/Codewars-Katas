@@ -1,11 +1,5 @@
 function drawStairs(n) {
-  result = [];
-  for (let i = 0; i < n; i++) {
-    space = ' ';
-    result.push('I\n' + space.repeat(i));
-  }
-  result[n - 1] = 'I';
-  return result.join(' ');
+  return [...Array(n)].map((_, i) => ' '.repeat(i) + 'I').join('\n');
 }
 
 console.log(drawStairs(1), "I");
