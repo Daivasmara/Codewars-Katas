@@ -1,5 +1,5 @@
 ![kyu](https://img.shields.io/badge/kyu-5-red)
-![solved](https://img.shields.io/badge/Katas%20Solved-38-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-42-green)
 
 # Codewars
 
@@ -48,9 +48,13 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
 - [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 - [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
+- [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+- [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 
 ### 8 kyu
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
 - [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 - [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
 - [Simple Fun #1: Seats in Theater](https://www.codewars.com/kata/588417e576933b0ec9000045)
+- [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
+- [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
