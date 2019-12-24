@@ -1,5 +1,5 @@
 ![kyu](https://img.shields.io/badge/kyu-5-red)
-![solved](https://img.shields.io/badge/Katas%20Solved-44-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-45-green)
 
 # Codewars
 
@@ -37,6 +37,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 - [Numericals of a String](https://www.codewars.com/kata/5b4070144d7d8bbfe7000001)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
