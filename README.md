@@ -1,5 +1,5 @@
 ![kyu](https://img.shields.io/badge/kyu-5-red)
-![solved](https://img.shields.io/badge/Katas%20Solved-46-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-47-green)
 
 # Codewars
 
@@ -39,6 +39,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Numericals of a String](https://www.codewars.com/kata/5b4070144d7d8bbfe7000001)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 - [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+- [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
