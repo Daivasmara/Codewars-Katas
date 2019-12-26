@@ -1,5 +1,5 @@
 ![kyu](https://img.shields.io/badge/kyu-5-red)
-![solved](https://img.shields.io/badge/Katas%20Solved-47-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-50-green)
 
 # Codewars
 
@@ -14,6 +14,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 - [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)
 - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
+- [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 
 ### 6 kyu
 - [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
@@ -40,6 +41,9 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 - [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
+- [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+
 
 ### 7 kyu
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
