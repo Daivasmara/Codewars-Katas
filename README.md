@@ -1,5 +1,5 @@
 ![kyu](https://img.shields.io/badge/kyu-5-red)
-![solved](https://img.shields.io/badge/Katas%20Solved-51-green)
+![solved](https://img.shields.io/badge/Katas%20Solved-53-green)
 
 # Codewars
 
@@ -44,6 +44,8 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [The Lamp: Revisited](https://www.codewars.com/kata/570e6e32de4dc8a8340016dd)
+- [Is Integer Array ?](https://www.codewars.com/kata/52a112d9488f506ae7000b95)
+- [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 
 
 ### 7 kyu
