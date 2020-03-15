@@ -49,6 +49,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [The Lamp: Revisited](https://www.codewars.com/kata/570e6e32de4dc8a8340016dd)
 - [Is Integer Array ?](https://www.codewars.com/kata/52a112d9488f506ae7000b95)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
+- [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 
 ### 7 kyu
