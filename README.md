@@ -74,3 +74,4 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Simple Fun #1: Seats in Theater](https://www.codewars.com/kata/588417e576933b0ec9000045)
 - [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
 - [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
+- [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035)
