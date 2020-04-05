@@ -50,6 +50,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Is Integer Array ?](https://www.codewars.com/kata/52a112d9488f506ae7000b95)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [More Zeros than Ones](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a)
 
 
 ### 7 kyu
@@ -75,3 +76,4 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
 - [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
 - [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035)
+- [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557)
