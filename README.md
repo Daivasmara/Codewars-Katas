@@ -11,6 +11,9 @@ My Profile: https://www.codewars.com/users/Daivasmara
 
 ## Katas Solved
 
+### 4 kyu
+- [Text align justify](https://www.codewars.com/kata/537e18b6147aa838f600001b)
+
 ### 5 kyu
 - [Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)
 - [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
