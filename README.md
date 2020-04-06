@@ -21,6 +21,7 @@ My Profile: https://www.codewars.com/users/Daivasmara
 - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 - [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
+- [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
 
 ### 6 kyu
 - [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
